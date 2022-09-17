@@ -62,8 +62,13 @@ namespace PresentacionTienda
                         txtBuscar.Text = "-1";
                         txtBuscar.Clear();
                         Actualizar();
-                    }
-                    break;
+                    } break;
+                case 4:
+                    {
+                        manejadorProducto.Borrar(producto);
+                        txtBuscar.Text = "";
+                        Actualizar();
+                    } break;
             }
         }
 

@@ -25,5 +25,12 @@ namespace ManejadoresTienda
             tabla.Columns[0].Visible = false;
             tabla.AutoResizeColumns();
         }
+        public void Borrar(Producto producto)
+        {
+            DialogResult rs = MessageBox.Show(string.Format("¿Estás seguro de borrar {0}?", producto.Nombre), "¡Atención!",
+                MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (rs == DialogResult.Yes)
+                accesoDatosProductos.Borrar(producto);
+        }
     }
 }
