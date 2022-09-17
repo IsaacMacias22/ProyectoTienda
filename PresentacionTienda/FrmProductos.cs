@@ -55,7 +55,7 @@ namespace PresentacionTienda
         {
             switch (col)
             {
-                case 3:
+                case 4:
                     {
                         FrmProductosAdd fpa = new FrmProductosAdd();
                         fpa.ShowDialog();
@@ -63,7 +63,7 @@ namespace PresentacionTienda
                         txtBuscar.Clear();
                         Actualizar();
                     } break;
-                case 4:
+                case 5:
                     {
                         manejadorProducto.Borrar(producto);
                         txtBuscar.Text = "";

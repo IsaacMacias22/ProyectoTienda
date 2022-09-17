@@ -26,7 +26,7 @@ BEGIN
 		WHERE idProducto = p_idProducto;
 	ELSE
 		UPDATE productos SET descripcion = p_descripcion, precio = p_precio 
-		WHERE idProducti = p_idProducto;
+		WHERE idProducto = p_idProducto;
 	END if;
 	END if;
 END;;

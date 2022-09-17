@@ -1,0 +1,6 @@
+D:\TECMM\Semestre 5\Administración de Bases de Datos\Proyectos\PresentacionTienda\EntidadesTienda\bin\Debug\EntidadesTienda.dll
+D:\TECMM\Semestre 5\Administración de Bases de Datos\Proyectos\PresentacionTienda\EntidadesTienda\bin\Debug\EntidadesTienda.pdb
+D:\TECMM\Semestre 5\Administración de Bases de Datos\Proyectos\PresentacionTienda\EntidadesTienda\obj\Debug\EntidadesTienda.csprojAssemblyReference.cache
+D:\TECMM\Semestre 5\Administración de Bases de Datos\Proyectos\PresentacionTienda\EntidadesTienda\obj\Debug\EntidadesTienda.csproj.CoreCompileInputs.cache
+D:\TECMM\Semestre 5\Administración de Bases de Datos\Proyectos\PresentacionTienda\EntidadesTienda\obj\Debug\EntidadesTienda.dll
+D:\TECMM\Semestre 5\Administración de Bases de Datos\Proyectos\PresentacionTienda\EntidadesTienda\obj\Debug\EntidadesTienda.pdb
